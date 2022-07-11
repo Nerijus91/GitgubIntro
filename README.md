@@ -1,2 +1,2 @@
 # GitgubIntro
-Gitgub cration
+Gitgub creation
